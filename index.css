@@ -1,0 +1,23 @@
+.heading{
+    background-color: orangered;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: bolder;
+    color: maroon;
+    text-align: center;
+}
+body{
+    background-color: lightgreen;
+}
+.linefont{
+    font-size: 20px;
+    font-weight: bolder;
+    color: blue;
+}
+.main{
+    font-size: 18px;
+    color: darkblue;
+    font-weight: bolder;
+}
+.collabel{
+    font-size: 200px;
+}
